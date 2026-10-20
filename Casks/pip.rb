@@ -1,6 +1,6 @@
 cask "pip" do
-  version "0.1.1"
-  sha256 "db3bac532f56c4e34a6687f9072369c70ebb822e9d089f293f3a394936a8fff7"
+  version "0.1.2"
+  sha256 "55e5949b99c698d5ebe197adc3d87982e2efa9b2ced3b033bc76a233c7cd430b"
 
   url "https://github.com/newtrn/pip/releases/download/v#{version}/Pip-#{version}.zip"
   name "Pip"
